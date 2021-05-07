@@ -1,0 +1,88 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hola",
+                "Hola que tal",
+                "Hola como estas",
+                "Ola",
+                "Como estas",
+                "Buen dia",
+                "Buenos dias",
+                "ola",
+                "hola",
+                "hey que tal",
+                "Hey que tal",
+                "hey",
+                "Hey"
+            ],
+            "responses": [
+                "Buenos dias, cuentame en que universidad estas interesado",
+                "Que tal!, tu consulta respecto a que universidad es",
+                "Hola dime acerca de que universidad necesitas informacion",
+                "Buen dia, indicame cual es la universidad en la que estas intersado",
+                "Hola, sobre que universidad te gustaria averiguar"
+            ],
+            "context": []
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Muchas gracias",
+                "Gracias",
+                "Adios",
+                "muchas gracias",
+                "gracias",
+                "adios",
+                "chau",
+                "Chau",
+                "eso es todo gracias",
+                "eso fue todo muchas gracias",
+                "eso seria todo",
+                "hasta luego"
+            ],
+            "responses": [
+                "Nos vemos, gracias por tu visita!!!",
+                "Que tengas un buen dia!!!",
+                "Adios, muchos exitos!!!",
+                "Que te vaya muy bien!!!",
+                "Cuidate, que te vaya bien!!!",
+                "Un gusto, espero haberte sido de mucha utilidad",
+                "Gracias por tu preferencia"
+            ],
+            "context": []
+        },
+        {
+            "tag": "noanswer",
+            "patterns": [],
+            "responses": [
+                "Lo siento, no logro entenderte",
+                "No entedí, podrias detallar un poco más tu consulta",
+                "Lo siento, no logro entenderte",
+                "No logro comprender tu consulta",
+                "No entiendo tu consulta"
+            ],
+            "context": []
+        },
+        {
+            "tag": "universities",
+            "patterns": [
+                "san marcos",
+                "unmsm",
+                "uni",
+                "ingenieria",
+                "agraria",
+                "molina",
+                "villareal",
+                "unfv",
+                "unac",
+                "callao"
+            ],
+            "responses": [
+                "Puedo ayudarte con los siguientes temas: fechas, admision, simulacro, reglas y pagos, indicame en cual estarias interesado porfavor"
+            ],
+            "context": []
+        }
+    ]
+}
