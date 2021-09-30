@@ -1,1 +1,142 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T06:00:44.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.8" etag="tLbNbE1BNob_GVrPq0u9" type="github"><diagram id="hxC2NUrRt5BHXPR1_M5f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T07:22:38.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2pvZK1f07koplo5sY5pg" version="15.3.8" type="github">
+  <diagram id="hxC2NUrRt5BHXPR1_M5f" name="Page-1">
+    <mxGraphModel dx="1107" dy="1095" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-1" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-1" value="Web of Science&lt;br&gt;40000 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-6" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-6" value="IEEE&lt;br&gt;21000 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-7" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-7" value="JMIR Publications&lt;br&gt;1986 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-8" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-8" value="NPJ Digital Medicine&lt;br&gt;500 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-9" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="170" />
+              <mxPoint x="415" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-9" value="The Electronic Library&lt;br&gt;18000 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-11" target="CWKo-YxSm3IAK2ir9hm7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-11" value="Se realizaron las búsqueda con palabras clave" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-18" target="CWKo-YxSm3IAK2ir9hm7-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-18" value="Se obtuvieron 115000 artículos aprox." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="58" y="160" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-20" target="CWKo-YxSm3IAK2ir9hm7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-20" value="Se aplican los criterios de búsqueda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="285" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-23" target="CWKo-YxSm3IAK2ir9hm7-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-23" value="Se obtuvieron 5000 artículos aprox." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="176" y="376" width="116" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-25" target="CWKo-YxSm3IAK2ir9hm7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-25" value="Se reviso el resumen de los articulos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="416" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-29" target="CWKo-YxSm3IAK2ir9hm7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-29" value="Se obtuvieron 34 artículos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="348" y="507" width="116" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.086;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-32" target="CWKo-YxSm3IAK2ir9hm7-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-32" value="Se reviso el articulo completo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="547" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-34" value="Se obtuvieron 16 artciulos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="734" y="507" width="116" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-38" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="-15" />
+              <mxPoint x="275" y="170" />
+              <mxPoint x="415" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-38" value="JAMIA&lt;br&gt;3000 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-60" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-40" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="-15" />
+              <mxPoint x="376" y="170" />
+              <mxPoint x="415" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-40" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;calibri&amp;#34; , sans-serif , &amp;#34;mongolian baiti&amp;#34; , &amp;#34;microsoft yi baiti&amp;#34; , &amp;#34;javanese text&amp;#34; , &amp;#34;yu gothic&amp;#34; ; font-size: 14.6667px ; text-align: left&quot;&gt;ScienceDirect&lt;/span&gt;&lt;br&gt;7000 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="-60" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-42" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="-15" />
+              <mxPoint x="376" y="170" />
+              <mxPoint x="415" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-42" value="Symmetry&lt;br&gt;500 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="-60" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CWKo-YxSm3IAK2ir9hm7-44" target="CWKo-YxSm3IAK2ir9hm7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="-15" />
+              <mxPoint x="476" y="170" />
+              <mxPoint x="415" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWKo-YxSm3IAK2ir9hm7-44" value="&lt;span style=&quot;color: rgb(68 , 68 , 68) ; font-family: &amp;#34;calibri&amp;#34; , sans-serif , &amp;#34;mongolian baiti&amp;#34; , &amp;#34;microsoft yi baiti&amp;#34; , &amp;#34;javanese text&amp;#34; , &amp;#34;yu gothic&amp;#34; ; font-size: 14.6667px ; text-align: left&quot;&gt;Taylos &amp;amp; Francis Online&lt;/span&gt;&lt;br&gt;1500 art aprox" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-60" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
